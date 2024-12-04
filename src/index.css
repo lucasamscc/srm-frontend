@@ -1,0 +1,12 @@
+/* index.css */
+html, body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.container {
+  margin-top: 20px;
+}
